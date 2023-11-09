@@ -45,8 +45,8 @@ DATABASES = {
         "ENGINE": "sentry.db.postgres",
         "NAME": "postgres",
         "USER": "postgres",
-        "PASSWORD": "",
-        "HOST": "postgres",
+        "PASSWORD": "GITF32NC9KglZWue",
+        "HOST": "10.49.160.3",
         "PORT": "",
     }
 }
